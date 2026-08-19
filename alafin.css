@@ -1,0 +1,46 @@
+.header {
+    border: solid black 2px;
+    text-align: center;
+    border-radius: 30px;
+    background-image: url(images\ \(14\).jfif);
+color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: #f2f2f2;
+    
+}
+.center{
+    color: cadetblue
+
+}
+.footer{
+    color: white;
+    text-align: center;
+gap: 0px;
+background-color: gray;
+height: 44vh;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.abcenter{
+
+}
+.all{
+    background-image: url(images\ \(15\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.aball{
+    background-image: url(download\ \(1\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
